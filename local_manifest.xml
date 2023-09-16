@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/onclite" name="Papi64s/android_device_xiaomi_onclite.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/xiaomi/onclite" name="Dhina17/android_vendor_xiaomi_onclite.git" remote="github" revision="lineage-20" />
+ <project path="kernel/xiaomi/onclite" name="Dhina17/android_kernel_xiaomi_onclite.git" remote="github" revision="lineage-19.1" />
+ 
+</manifest>
